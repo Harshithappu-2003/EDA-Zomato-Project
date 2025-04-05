@@ -8,7 +8,7 @@ This project involves **Exploratory Data Analysis (EDA)** and **Feature Engineer
 
 | File Name                               | Description |
 |----------------------------------------|-------------|
-| `1-EDA And Feature Engineering.ipynb`  | Main Jupyter Notebook with EDA and feature engineering steps |
+| `zomato-EDA.ipynb`  | Main Jupyter Notebook with EDA and feature engineering steps |
 | `zomato.csv`                            | Original dataset used for analysis |
 | `zomato_cleaned.xlsx`                  | Cleaned and processed data exported after EDA |
 
