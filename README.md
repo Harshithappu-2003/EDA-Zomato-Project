@@ -25,4 +25,14 @@ This project involves **Exploratory Data Analysis (EDA)** and **Feature Engineer
 - Exporting cleaned data for further use
 
 ---
+![image](https://github.com/user-attachments/assets/c1fc1470-c7ff-4c44-ad98-aaf340e764b9)
+
+![image](https://github.com/user-attachments/assets/acf26666-b11c-4670-a27d-ecc16d2fcdd0)
+
+![image](https://github.com/user-attachments/assets/84205573-2ac0-4ee9-93a6-976b0cba5069)
+
+![image](https://github.com/user-attachments/assets/b0f6b76b-0efd-4af5-bf5f-b9163a84c2cd)
+
+
+
 
